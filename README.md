@@ -4,6 +4,10 @@ Hi Hackers!
 
 We're super excited to be with you here this weekend at HackMIT. This repository contains everything you need to know to use Baseten for your AI-powered projects.
 
+Let's go!
+
+— Philip and Mike
+
 ## What is Baseten?
 
 Baseten is an inference-focused AI infrastructure platform that powers mission-critical production workloads for best-in-class AI-native startups like Descript, Bland, and Writer. We're a series B company with offices in SF and NY and teammates around the world.
@@ -55,7 +59,7 @@ Want a different model? No problem at all. Use this:
 
 ## How can I get help?
 
-For technical issues, start with the [documentation](https://docs.baseten.co), which has a handy built-in LLM chat with full docs access.
+For technical issues, start with the [documentation](https://docs.baseten.co), which has a handy built-in LLM chat with full docs access. Then find Philip or Mike!
 
 For additional free credits, send an email to philip.kiely@baseten.co with your workspace email and a quick sentence about what you need the credits for.
 
