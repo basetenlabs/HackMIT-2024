@@ -32,7 +32,7 @@ You are still encouraged to deploy your own models as well!
 
 Within my own Baseten account, I've deployed the models and created read-only API keys that will allow you to run inference on the models. I have autoscaling set up, but please be nice and don't slam the models, these are a shared resource.
 
-The shared inference endpoint API key is: 
+The shared inference endpoint API key is in the `#baseten` channel in Discord.
 
 **IMPORTANT**: these models will only be live for the hackathon through end of day Sunday. Each model notebook has a link to deploy the model for yourself if you want to use it after the project, all you'll need to do is swap out the model ID and API key.
 
